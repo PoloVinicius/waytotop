@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+div#tv-radio {
+    width: 900px;
+    height:580px;
+    margin: auto;
+    background: url("C:/Users/admvi/Documents/_cursoemvideo/projeto-glass-html5/_imagens/radio-tv.png") no-repeat;
+} 
+audio#musica {
+    display: block;
+    position: relative;
+    left: 580px;
+    top:493px;
+    width: 290px;
+    height: 45px;
+
+}
+video#filme{
+    display: block;
+    position: relative;
+    left: 84px;
+    top:85px;
+    width: 450px;
+
+}
